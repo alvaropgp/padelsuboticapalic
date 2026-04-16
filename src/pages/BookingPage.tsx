@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Cal, { getCalApi } from "@calcom/embed-react";
-import pricingImage from '../assets/image.png';
+import pricingImage from '../assets/pricing.jpg';
 
 const BookingPage = () => {
   useEffect(() => {
